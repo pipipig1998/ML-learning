@@ -39,3 +39,8 @@ if __name__ == '__main__':
 
     # 输出逆矩阵
     print(np.linalg.inv(a))
+
+    a=np.array([[1,2],[3,4]])
+    b=np.array([1,2]).reshape(2,1)
+    print(a@b)
+    print(np.matmul(a,b))
