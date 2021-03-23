@@ -21,6 +21,7 @@ class LineReturn:
         plt.plot(self.dataX.flatten(),self._dataY.flatten())
         plt.show()
 if __name__ == '__main__':
+    # 这里需要注意，是一维数组，需要进行-1，1
     l=LineReturn(np.linspace(1,10,9,dtype=int).reshape(-1,1),np.linspace(2,20,9,dtype=int).reshape(-1,1))
     l.show()
 
