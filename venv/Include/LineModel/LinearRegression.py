@@ -10,6 +10,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
+from sklearn import linear_model
 def DataProcess():
     #进行数据的读取,成功进行X和Y的读取
     dataset=pd.read_csv('studentscores.csv')
