@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8173baed-b1e3-4b16-b05e-25270453e5a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/Include/DessionTree/package_DessionTree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Include/LineModel/LinearRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Include/LineModel/LinearRegression.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +12,20 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/ML_Learning$Learn_Numpy.coverage" NAME="Learn_Numpy Coverage Results" MODIFIED="1616396257316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Include" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -32,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/venv/Include/LineModel/LinearRegression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+            <state relative-caret-position="495">
+              <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
               <folding>
                 <element signature="e#68#86#0" expanded="true" />
               </folding>
@@ -87,6 +99,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="746" />
+    <option name="y" value="-9" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -312,7 +325,7 @@
       <workItem from="1616393790623" duration="11614000" />
       <workItem from="1616487160258" duration="20391000" />
       <workItem from="1616669875086" duration="6676000" />
-      <workItem from="1616676741044" duration="8665000" />
+      <workItem from="1616676741044" duration="9393000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;2021/3/23&quot;">
       <created>1616501421439</created>
@@ -356,11 +369,18 @@
       <option name="project" value="LOCAL" />
       <updated>1616683093706</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="&quot;2021/3/25&quot;">
+      <created>1616685493708</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1616685493708</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47346000" />
+    <option name="totallyTimeSpent" value="48074000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -373,9 +393,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22855228" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22855228" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -390,7 +409,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.20576407" side_tool="true" weight="0.398017" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286119" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.79423594" visible="true" weight="0.398017" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.79423594" visible="true" weight="0.398017" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -564,8 +583,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/Include/LineModel/LinearRegression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+        <state relative-caret-position="495">
+          <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
           <folding>
             <element signature="e#68#86#0" expanded="true" />
           </folding>
