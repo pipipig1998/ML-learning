@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8173baed-b1e3-4b16-b05e-25270453e5a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/venv/Include/Netural_NetWork/Netural_NetWork.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,37 +30,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Include/DessionTree/package_DessionTree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/Include/LineModel/LinearRegression.py">
+        <entry file="file://$PROJECT_DIR$/venv/Include/Netural_NetWork/Netural_NetWork.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+            <state relative-caret-position="292">
+              <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
               <folding>
-                <element signature="e#68#86#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Include/LineModel/MultiplyLineReturn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
-              <folding>
-                <element signature="e#97#115#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,12 +71,14 @@
         <option value="$PROJECT_DIR$/venv/Include/DessionTree/DessionTree.py" />
         <option value="$PROJECT_DIR$/venv/Include/DessionTree/package_DessionTree.py" />
         <option value="$PROJECT_DIR$/venv/Include/LineModel/LinearRegression.py" />
+        <option value="$PROJECT_DIR$/venv/Include/Netural_NetWork.py" />
+        <option value="$PROJECT_DIR$/venv/Include/Netural_NetWork/Netural_NetWork.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="746" />
-    <option name="y" value="-9" />
+    <option name="x" value="745" />
+    <option name="y" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -109,7 +88,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,19 +111,13 @@
               <item name="ML-Learning" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
               <item name="Include" type="462c0819:PsiDirectoryNode" />
-              <item name="DessionTree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ML-Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ML-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="Include" type="462c0819:PsiDirectoryNode" />
-              <item name="LineModel" type="462c0819:PsiDirectoryNode" />
+              <item name="Netural_NetWork" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -155,12 +127,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\PythonPrograms\ML-Learning\venv\Include\LineModel" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PythonPrograms\ML-Learning\venv\Include\Netural_NetWork" />
       <recent name="D:\PythonPrograms\ML-Learning\venv\Include\LineModel" />
       <recent name="D:\PythonPrograms\ML-Learning\venv\Include\Numpy" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PythonPrograms\ML-Learning\venv\Include\LineModel" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -175,11 +148,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.package_DessionTree">
+  <component name="RunManager" selected="Python.Netural_NetWork (1)">
     <configuration name="DessionTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ML-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/DessionTree" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -195,20 +171,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MultiplyLineReturn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Netural_NetWork (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ML-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/LineModel" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/Netural_NetWork" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/LineModel/MultiplyLineReturn.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/Netural_NetWork/Netural_NetWork.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,20 +190,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MyTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Netural_NetWork" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ML-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/DessionTree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/DessionTree/MyTree.py" />
+      <option name="SCRIPT_NAME" value="D:\PythonPrograms\ML-Learning\venv\Include\Netural_NetWork\Netural_NetWork.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,6 +235,9 @@
       <module name="ML-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/DessionTree" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -304,11 +277,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Netural_NetWork (1)" />
+        <item itemvalue="Python.Netural_NetWork" />
         <item itemvalue="Python.package_DessionTree" />
         <item itemvalue="Python.DessionTree" />
         <item itemvalue="Python.package_tree" />
-        <item itemvalue="Python.MyTree" />
-        <item itemvalue="Python.MultiplyLineReturn" />
       </list>
     </recent_temporary>
   </component>
@@ -326,6 +299,8 @@
       <workItem from="1616487160258" duration="20391000" />
       <workItem from="1616669875086" duration="6676000" />
       <workItem from="1616676741044" duration="9393000" />
+      <workItem from="1616835467498" duration="2019000" />
+      <workItem from="1617012091722" duration="5262000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;2021/3/23&quot;">
       <created>1616501421439</created>
@@ -380,7 +355,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48074000" />
+    <option name="totallyTimeSpent" value="55355000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -393,8 +368,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22855228" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23525469" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -409,7 +385,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.20576407" side_tool="true" weight="0.398017" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.79423594" visible="true" weight="0.398017" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.79423594" visible="true" weight="0.4220963" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -563,7 +539,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/Include/LineModel/MultiplyLineReturn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
+        <state relative-caret-position="594">
           <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
           <folding>
             <element signature="e#97#115#0" expanded="true" />
@@ -571,9 +547,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/Netural_NetWork/mnist-original.mat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/LineModel/LinearRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#68#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Include/DessionTree/package_DessionTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
+        <state relative-caret-position="309">
           <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
@@ -581,12 +570,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/LineModel/LinearRegression.py">
+    <entry file="file://$PROJECT_DIR$/venv/Include/Netural_NetWork/Netural_NetWork.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        <state relative-caret-position="292">
+          <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
           <folding>
-            <element signature="e#68#86#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
