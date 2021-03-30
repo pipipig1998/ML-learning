@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8173baed-b1e3-4b16-b05e-25270453e5a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/Include/Matplotlib/01_first.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Matplotlib/Example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/SVM/package_SVM.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,12 +29,36 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/Include/Matplotlib/Example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+            <state relative-caret-position="347">
+              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Include/Matplotlib/01_first.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/Include/SVM/package_SVM.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="59">
+              <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -76,12 +99,13 @@
         <option value="$PROJECT_DIR$/venv/Include/Netural_NetWork/Netural_NetWork.py" />
         <option value="$PROJECT_DIR$/venv/Include/Matplotlib/01_first.py" />
         <option value="$PROJECT_DIR$/venv/Include/Matplotlib/Example.py" />
+        <option value="$PROJECT_DIR$/venv/Include/SVM/package_SVM.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1001" />
-    <option name="y" value="7" />
+    <option name="x" value="1000" />
+    <option name="y" value="6" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -91,6 +115,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,13 +139,12 @@
               <item name="ML-Learning" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
               <item name="Include" type="462c0819:PsiDirectoryNode" />
-              <item name="Matplotlib" type="462c0819:PsiDirectoryNode" />
+              <item name="SVM" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -151,11 +175,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Example">
+  <component name="RunManager" selected="Python.package_SVM">
     <configuration name="01_first" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ML-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/Matplotlib" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -175,6 +202,9 @@
       <module name="ML-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/Matplotlib" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -194,6 +224,9 @@
       <module name="ML-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/Netural_NetWork" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -201,25 +234,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/Netural_NetWork/Netural_NetWork.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Netural_NetWork" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ML-Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\PythonPrograms\ML-Learning\venv\Include\Netural_NetWork\Netural_NetWork.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,6 +268,9 @@
       <module name="ML-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/DessionTree" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -269,13 +286,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="package_SVM" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ML-Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/SVM" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/SVM/package_SVM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.package_SVM" />
         <item itemvalue="Python.Example" />
         <item itemvalue="Python.01_first" />
         <item itemvalue="Python.package_DessionTree" />
         <item itemvalue="Python.Netural_NetWork (1)" />
-        <item itemvalue="Python.Netural_NetWork" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +330,8 @@
       <workItem from="1616669875086" duration="6676000" />
       <workItem from="1616676741044" duration="9393000" />
       <workItem from="1616835467498" duration="2019000" />
-      <workItem from="1617012091722" duration="10334000" />
+      <workItem from="1617012091722" duration="10813000" />
+      <workItem from="1617102285766" duration="3687000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;2021/3/23&quot;">
       <created>1616501421439</created>
@@ -352,11 +389,18 @@
       <option name="project" value="LOCAL" />
       <updated>1617026819460</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="&quot;2021/3/29&quot;">
+      <created>1617031885456</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1617031885456</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60427000" />
+    <option name="totallyTimeSpent" value="64593000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -370,7 +414,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.05764075" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24865952" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -383,13 +427,13 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.20576407" side_tool="true" weight="0.398017" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.20643431" side_tool="true" weight="0.37818697" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.79423594" visible="true" weight="0.3796034" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.7935657" visible="true" weight="0.2266289" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.73257375" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.73123324" />
       <window_info anchor="right" id="R Graphics" order="4" weight="0.3297587" />
       <window_info anchor="right" id="R Packages" order="5" />
       <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="6" side_tool="true" weight="0.3297587" />
@@ -538,9 +582,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/Netural_NetWork/mnist-original.mat">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/Netural_NetWork/mnist-original.mat" />
     <entry file="file://$PROJECT_DIR$/venv/Include/LineModel/LinearRegression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="903">
@@ -578,20 +620,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/Matplotlib/Example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Include/Matplotlib/01_first.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="39" column="32" lean-forward="true" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+        <state relative-caret-position="33">
+          <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/Matplotlib/Example.py">
+    <entry file="file://E:/ProgramFiles/anaconda/Lib/site-packages/matplotlib/pyplot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        <state relative-caret-position="137">
+          <caret line="2889" selection-start-line="2889" selection-end-line="2889" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/SVM/package_SVM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
