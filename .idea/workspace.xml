@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8173baed-b1e3-4b16-b05e-25270453e5a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/Include/SVM/SVM_example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/SVM/SVM_example3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/Tensorflow_Study/First_Study.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ML-Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ML-Learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,26 +31,14 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Include/SVM/SVM_example2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/Include/SVM/SVM_example3.py">
+        <entry file="file://$PROJECT_DIR$/venv/Include/Tensorflow_Study/First_Study.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+            <state relative-caret-position="264">
+              <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#0#23#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -91,12 +80,14 @@
         <option value="$PROJECT_DIR$/venv/Include/SVM/package_SVM.py" />
         <option value="$PROJECT_DIR$/venv/Include/SVM/SVM_example2.py" />
         <option value="$PROJECT_DIR$/venv/Include/SVM/SVM_example3.py" />
+        <option value="$PROJECT_DIR$/venv/Include/Tensorflow_Study/Untitled.ipynb" />
+        <option value="$PROJECT_DIR$/venv/Include/Tensorflow_Study/First_Study.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1000" />
-    <option name="y" value="6" />
+    <option name="y" value="5" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -106,7 +97,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,19 +120,21 @@
               <item name="ML-Learning" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
               <item name="Include" type="462c0819:PsiDirectoryNode" />
-              <item name="SVM" type="462c0819:PsiDirectoryNode" />
+              <item name="Tensorflow_Study" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/ProgramFiles/anaconda/envs/tensorflow/python.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -167,29 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SVM_example3">
-    <configuration name="01_first" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ML-Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/Matplotlib" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/Matplotlib/01_first.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.First_Study">
     <configuration name="Example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ML-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,10 +182,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="First_Study" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ML-Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/Tensorflow_Study" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/Tensorflow_Study/First_Study.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="SVM_example2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ML-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/SVM" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -235,6 +227,9 @@
       <module name="ML-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/SVM" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -276,6 +271,9 @@
       <module name="ML-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/SVM" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -293,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.First_Study" />
         <item itemvalue="Python.SVM_example3" />
         <item itemvalue="Python.SVM_example2" />
         <item itemvalue="Python.package_SVM" />
         <item itemvalue="Python.Example" />
-        <item itemvalue="Python.01_first" />
       </list>
     </recent_temporary>
   </component>
@@ -318,6 +316,8 @@
       <workItem from="1616835467498" duration="2019000" />
       <workItem from="1617012091722" duration="10813000" />
       <workItem from="1617102285766" duration="6341000" />
+      <workItem from="1617370173089" duration="2546000" />
+      <workItem from="1617373789397" duration="3519000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;2021/3/23&quot;">
       <created>1616501421439</created>
@@ -393,7 +393,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67247000" />
+    <option name="totallyTimeSpent" value="73312000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -406,8 +406,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24865952" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25536194" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -416,13 +417,13 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932975" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49865952" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.20643431" side_tool="true" weight="0.37818697" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.7935657" visible="true" weight="0.43342775" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.08847185" side_tool="true" visible="true" weight="0.43342775" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49865952" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.91152817" visible="true" weight="0.43342775" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -651,6 +652,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python38/site-packages/sklearn/svm/_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="614" selection-start-line="614" selection-end-line="614" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/SVM/SVM_example3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="710">
+          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Include/SVM/SVM_example2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
@@ -661,19 +679,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python38/site-packages/sklearn/svm/_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="614" selection-start-line="614" selection-end-line="614" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/Tensorflow_Study/Untitled.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/SVM/SVM_example3.py">
+    <entry file="file://$PROJECT_DIR$/venv/Include/Tensorflow_Study/First_Study.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+        <state relative-caret-position="264">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
