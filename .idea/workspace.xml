@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8173baed-b1e3-4b16-b05e-25270453e5a1" name="Default Changelist" comment="" />
+    <list default="true" id="8173baed-b1e3-4b16-b05e-25270453e5a1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/venv/Include/Tensorflow_Study/.ipynb_checkpoints/IMDB_Study-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Include/Tensorflow_Study/.ipynb_checkpoints/IMDB_Study-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Include/Tensorflow_Study/IMDB_Study.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Include/Tensorflow_Study/IMDB_Study.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/venv/Include/Tensorflow_Study/First_Study.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="251">
-              <caret line="15" column="19" lean-forward="true" selection-end-line="28" selection-end-column="20" />
+              <caret line="15" column="19" selection-end-line="28" selection-end-column="20" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -92,6 +95,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,7 +125,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,6 +184,9 @@
       <module name="ML-Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include/Tensorflow_Study" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -313,6 +319,7 @@
       <workItem from="1617102285766" duration="6341000" />
       <workItem from="1617370173089" duration="2546000" />
       <workItem from="1617373789397" duration="4526000" />
+      <workItem from="1617461312747" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;2021/3/23&quot;">
       <created>1616501421439</created>
@@ -395,7 +402,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74319000" />
+    <option name="totallyTimeSpent" value="74328000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -409,7 +416,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25536194" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25871313" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -422,9 +429,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49865952" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.08847185" side_tool="true" visible="true" weight="0.43342775" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.08914209" side_tool="true" visible="true" weight="0.43342775" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49865952" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.91152817" visible="true" weight="0.43342775" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.9108579" visible="true" weight="0.43342775" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -690,7 +697,7 @@
     <entry file="file://$PROJECT_DIR$/venv/Include/Tensorflow_Study/First_Study.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
-          <caret line="15" column="19" lean-forward="true" selection-end-line="28" selection-end-column="20" />
+          <caret line="15" column="19" selection-end-line="28" selection-end-column="20" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
